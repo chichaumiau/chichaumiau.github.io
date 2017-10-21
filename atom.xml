@@ -4,7 +4,7 @@
   <title><![CDATA[Chichau's Blog]]></title>
   <link href="http://chichaumiau.github.io/atom.xml" rel="self"/>
   <link href="http://chichaumiau.github.io/"/>
-  <updated>2017-10-21T13:51:10+01:00</updated>
+  <updated>2017-10-21T13:56:20+01:00</updated>
   <id>http://chichaumiau.github.io/</id>
   <author>
     <name><![CDATA[Chichau Miau]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Test]]></title>
+    <link href="http://chichaumiau.github.io/blog/2017/10/21/test/"/>
+    <updated>2017-10-21T13:56:14+01:00</updated>
+    <id>http://chichaumiau.github.io/blog/2017/10/21/test</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
