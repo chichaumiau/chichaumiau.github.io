@@ -4,7 +4,7 @@
   <title><![CDATA[Chichau's Blog]]></title>
   <link href="http://chichaumiau.github.io/atom.xml" rel="self"/>
   <link href="http://chichaumiau.github.io/"/>
-  <updated>2017-10-27T05:57:41+01:00</updated>
+  <updated>2017-11-14T12:04:40+00:00</updated>
   <id>http://chichaumiau.github.io/</id>
   <author>
     <name><![CDATA[Chichau Miau]]></name>
@@ -19,15 +19,6 @@
     <updated>2017-10-24T21:07:38+01:00</updated>
     <id>http://chichaumiau.github.io/blog/2017/10/24/scrnaseqtoollist</id>
     <content type="html"><![CDATA[<p>A quite complete list of scRNA-seq tools is available <a href="https://docs.google.com/spreadsheets/d/1n3hXzzhrHZgClLD8P3cyIrK_6YgdjtdGlLswNAuoKSI/edit#gid=1386788683">here</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Test]]></title>
-    <link href="http://chichaumiau.github.io/blog/2017/10/21/test/"/>
-    <updated>2017-10-21T13:56:14+01:00</updated>
-    <id>http://chichaumiau.github.io/blog/2017/10/21/test</id>
-    <content type="html"><![CDATA[
 ]]></content>
   </entry>
   

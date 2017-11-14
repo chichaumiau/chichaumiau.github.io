@@ -177,20 +177,13 @@
         
           <div class="sharing">
   
-  <a href="//twitter.com/share" class="twitter-share-button" data-url="http://chichaumiau.github.io/blog/2017/10/24/scrnaseqtoollist/" data-via="" data-counturl="http://chichaumiau.github.io/blog/2017/10/24/scrnaseqtoollist/" >Tweet</a>
+  <a href="//twitter.com/share" class="twitter-share-button" data-url="http://chichaumiau.github.io/blog/2017/10/24/scrnaseqtoollist/" data-via="chichaumiau" data-counturl="http://chichaumiau.github.io/blog/2017/10/24/scrnaseqtoollist/" >Tweet</a>
   
   
   
 </div>
 
         
-        
-          <ul class="meta text-muted pager">
-            
-            <li class="previous"><a href="/blog/2017/10/21/test/" title="Previous Post: test">&laquo; test</a></li>
-            
-            
-          </ul>
         
       </footer>
     </article>
@@ -206,7 +199,11 @@
   
   <aside class="sidebar col-md-3">
     
-      <section class="panel panel-default">
+      <section>
+  <h1>About Me</h1>
+  <p>A little something about me.</p>
+</section>
+<section class="panel panel-default">
   <div class="panel-heading">
     <h3 class="panel-title">Recent Posts</h3>
   </div>
@@ -215,11 +212,53 @@
     
     <a class="list-group-item active" href="/blog/2017/10/24/scrnaseqtoollist/">scRNAseqtoollist</a>
     
-    <a class="list-group-item " href="/blog/2017/10/21/test/">Test</a>
-    
   </div>
 </section>
 
+<section class="panel panel-default clearfix">
+  <div class="panel-heading">
+      <h3 class="panel-title">GitHub Repos</h3>
+  </div>
+  <div class="list-group" id="gh_repos">
+    <p class="loading">Status updating...</p>
+  </div>
+  
+    <div class="gh-profile-link pull-right text-muted">
+      <a href="https://github.com/chichaumiau">@chichaumiau</a> on GitHub
+    </div>
+  
+  <script type="text/javascript">
+    $(document).ready(function(){
+        if (!window.jXHR){
+            var jxhr = document.createElement('script');
+            jxhr.type = 'text/javascript';
+            jxhr.src = '/javascripts/libs/jXHR.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(jxhr, s);
+        }
+
+        github.showRepos({
+            user: 'chichaumiau',
+            count: 0,
+            skip_forks: true,
+            target: '#gh_repos'
+        });
+    });
+  </script>
+  <script src="/javascripts/github.js" type="text/javascript"> </script>
+</section>
+
+
+<section class="googleplus panel panel-default">
+  <div class="panel-body">
+    <h2>
+      <a href="https://plus.google.com/+ChichauMiau?rel=author">
+        <img src="http://www.google.com/images/icons/ui/gprofile_button-32.png" width="32" height="32">
+        Google+
+      </a>
+    </h2>
+  </div>
+</section>
 
 
 
