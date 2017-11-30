@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Chichau's Blog]]></title>
-  <link href="http://chichaumiau.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Scrna-seq_simple_course | Chichau's Blog]]></title>
+  <link href="http://chichaumiau.github.io/blog/categories/scrna-seq-simple-course/atom.xml" rel="self"/>
   <link href="http://chichaumiau.github.io/"/>
   <updated>2017-11-30T09:24:43+00:00</updated>
   <id>http://chichaumiau.github.io/</id>
@@ -39,15 +39,6 @@
     <updated>2017-11-22T11:44:52+00:00</updated>
     <id>http://chichaumiau.github.io/blog/2017/11/22/1-dot-1-how-to-prepare-reference-for-scrna-seq</id>
     <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[scRNAseqtoollist]]></title>
-    <link href="http://chichaumiau.github.io/blog/2017/10/24/scrnaseqtoollist/"/>
-    <updated>2017-10-24T21:07:38+01:00</updated>
-    <id>http://chichaumiau.github.io/blog/2017/10/24/scrnaseqtoollist</id>
-    <content type="html"><![CDATA[<p>A quite complete list of scRNA-seq tools is available <a href="https://docs.google.com/spreadsheets/d/1n3hXzzhrHZgClLD8P3cyIrK_6YgdjtdGlLswNAuoKSI/edit#gid=1386788683">here</a>.</p>
 ]]></content>
   </entry>
   
